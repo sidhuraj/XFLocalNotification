@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWXk/Blw4k9bV2F1xUEbSdL6ijrXWOVFcbBeEwztRKC0MwytlA/HHHCHNgiDucuPsh5Uyv5IMJrtKxKDr4Wejw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santosh\\source\\repos\\NotificationSample\\NotificationSample\\NotificationSample.iOS\\NotificationSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santosh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}
